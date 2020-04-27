@@ -1,0 +1,2 @@
+C:\Users\admin\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\lib
+C:\Users\admin\AppData\Local\Programs\Appium\resources\app\node_modules\appium\node_modules\appium-android-driver\build\lib
