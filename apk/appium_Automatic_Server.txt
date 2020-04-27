@@ -1,0 +1,40 @@
+vivoX20
+{
+"platformName": "Android",
+"platformVersion": "8.1.0",
+"deviceName": "10.211.20.64:5556",
+"appPackage": "com.kuaishou.nebula",
+"appActivity": "com.yxcorp.gifshow.HomeActivity"
+}
+三星S8
+{
+"platformName": "Android",
+"platformVersion": "9",
+"deviceName": "9889d6483158465037",
+"appPackage": "com.kuaishou.nebula",
+"appActivity": "com.yxcorp.gifshow.HomeActivity"
+}
+三星S7
+{
+"platformName": "Android",
+"platformVersion": "8.0.0",
+"deviceName": "8dc2175c",
+"appPackage": "com.kuaishou.nebula",
+"appActivity": "com.yxcorp.gifshow.HomeActivity"
+}
+SUGAR
+{
+"platformName": "Android",
+"platformVersion": "8.1.0",
+"deviceName": "3bd6729e",
+"appPackage": "com.kuaishou.nebula",
+"appActivity": "com.yxcorp.gifshow.HomeActivity"
+}
+夜神模拟器
+{
+"platformName": "Android",
+"platformVersion": "5.1.1",
+"deviceName": "127.0.0.1:62002",
+"appPackage": "com.kuaishou.nebula",
+"appActivity": "com.yxcorp.gifshow.HomeActivity"
+}
